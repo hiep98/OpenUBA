@@ -1,4 +1,4 @@
-flask==1.0.2
+flask==2.2.5
 keras==2.6.0rc3 
 pandas==0.25.3
 numpy==1.22.2
